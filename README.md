@@ -15,9 +15,12 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
 
 ---
 
@@ -32,20 +35,24 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noeljabakar&show_icons=true&theme=dark&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeljabakar&layout=compact&theme=dark)
 
 ---
+
+
 
 ## 🚀 My Projects
 
-- [Apex Demo](https://github.com/YOUR-USERNAME/apex-demo)
-- [AI Content Studio](https://github.com/YOUR-USERNAME/ai-content-studio)
-- [Coder Buddy](https://github.com/YOUR-USERNAME/Coder-buddy)
+- [Apex Demo](https://github.com/noeljabakar/apex-demo)
+- [AI Content Studio](https://github.com/noeljabakar/ai-content-studio)
+- [Coder Buddy](https://github.com/noeljabakar/Coder-buddy)
 
 ---
+
 
 ⭐ Thanks for visiting my profile!
